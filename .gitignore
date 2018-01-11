@@ -1,0 +1,6 @@
+#Not processed line, used to add comments
+#Exclude data files
+*.dat
+#Exclude results directory
+results/
+
